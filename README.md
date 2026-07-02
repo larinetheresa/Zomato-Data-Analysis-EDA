@@ -70,17 +70,17 @@ The following analyses were performed:
 
 ![Restaurant Type](images/no_of_restaurants.png)
 
-### Rating Distribution
+### Distribution of Approximate Cost for 2 people
 
-![Rating Distribution](images/rating_distribution.png)
+![Cost Distribution](images/approx_cost_2_people.png)
 
-### Cost Distribution
+### Restautant Types by Online Orders
 
-![Cost Distribution](images/cost_distribution.png)
+![Relationship Distribution](images/relation_online_restaurant_type.png)
 
-### Table Booking vs Rating
+### Restaurant ratings by Online Order Availability
 
-![Box Plot](images/table_booking_vs_rating_boxplot.png)
+![Box Plot](images/restau_rate_online_avail.png)
 
 ##  Key Findings
 
