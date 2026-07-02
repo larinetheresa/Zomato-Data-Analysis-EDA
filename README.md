@@ -105,6 +105,14 @@ The following analyses were performed:
 - Deploy the analysis as a web application
 
 ---
+## 📖 References
+
+The following resources were used for learning concepts and Python syntax during the development of this project:
+
+- GeeksforGeeks – Python and Pandas tutorials
+- Pandas Official Documentation
+- Matplotlib Official Documentation
+- Seaborn Official Documentation
 
 ## 👩‍💻 Author
 
