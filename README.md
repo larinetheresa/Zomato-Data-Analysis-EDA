@@ -1,6 +1,6 @@
-# 🍽️ Zomato Restaurant Data Analysis using Python
+#  Zomato Restaurant Data Analysis using Python
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on the Zomato restaurant dataset using Python. The objective is to analyze restaurant characteristics, customer ratings, pricing, online ordering, table booking, and customer engagement to uncover meaningful patterns and generate business insights.
 
@@ -8,7 +8,7 @@ The project demonstrates the complete EDA workflow, including data cleaning, dat
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand the structure of the dataset.
 - Clean and preprocess the data.
@@ -19,7 +19,7 @@ The project demonstrates the complete EDA workflow, including data cleaning, dat
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information about restaurants, including:
 
@@ -33,7 +33,7 @@ The dataset contains information about restaurants, including:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -44,7 +44,7 @@ The dataset contains information about restaurants, including:
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The following analyses were performed:
 
@@ -64,7 +64,7 @@ The following analyses were performed:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Dining restaurants are the most common restaurant type.
 - Dining restaurants received the highest number of customer votes.
@@ -75,7 +75,7 @@ The following analyses were performed:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - Restaurants may consider improving online ordering services to enhance customer convenience.
 - Restaurant owners should analyze customer demand before investing in table booking facilities.
@@ -83,7 +83,7 @@ The following analyses were performed:
 
 ---
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -97,7 +97,7 @@ The following analyses were performed:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Perform Feature Engineering
 - Build Machine Learning models
@@ -105,7 +105,7 @@ The following analyses were performed:
 - Deploy the analysis as a web application
 
 ---
-## 📖 References
+## References
 
 The following resources were used for learning concepts and Python syntax during the development of this project:
 
