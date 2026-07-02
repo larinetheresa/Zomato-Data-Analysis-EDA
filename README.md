@@ -64,6 +64,24 @@ The following analyses were performed:
 
 ---
 
+## Sample Visualizations
+
+### Restaurant Type Distribution
+
+![Restaurant Type](images/no_of_restaurants.png)
+
+### Rating Distribution
+
+![Rating Distribution](images/rating_distribution.png)
+
+### Cost Distribution
+
+![Cost Distribution](images/cost_distribution.png)
+
+### Table Booking vs Rating
+
+![Box Plot](images/table_booking_vs_rating_boxplot.png)
+
 ##  Key Findings
 
 - Dining restaurants are the most common restaurant type.
